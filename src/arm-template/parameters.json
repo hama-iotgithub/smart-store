@@ -21,7 +21,7 @@
       "value": "https://github.com/intelligent-retail/smart-store/releases/download/v0.1.0/ItemService.ItemMaster.zip"
     },
     "itemServiceAppServicePlanSkuName": {
-      "value": "P1V2"
+      "value": "F1"
     },
     "stockServiceSqlServerAdminUserName": {
       "value": "smartretaildba"
@@ -51,7 +51,7 @@
       "value": "https://github.com/intelligent-retail/smart-store/releases/download/v0.2.0/StockService.StockProcessor.zip"
     },
     "stockServiceAppServicePlanSkuName": {
-      "value": "P1V2"
+      "value": "F1"
     },
     "posApiName": {
       "value": "pos-api"
